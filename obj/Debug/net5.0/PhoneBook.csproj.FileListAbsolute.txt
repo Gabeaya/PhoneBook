@@ -1,0 +1,15 @@
+/Users/taylorruis/Desktop/Phone-book/bin/Debug/net5.0/PhoneBook.deps.json
+/Users/taylorruis/Desktop/Phone-book/bin/Debug/net5.0/PhoneBook.runtimeconfig.json
+/Users/taylorruis/Desktop/Phone-book/bin/Debug/net5.0/PhoneBook.runtimeconfig.dev.json
+/Users/taylorruis/Desktop/Phone-book/bin/Debug/net5.0/PhoneBook.dll
+/Users/taylorruis/Desktop/Phone-book/bin/Debug/net5.0/ref/PhoneBook.dll
+/Users/taylorruis/Desktop/Phone-book/bin/Debug/net5.0/PhoneBook.pdb
+/Users/taylorruis/Desktop/Phone-book/obj/Debug/net5.0/PhoneBook.csprojAssemblyReference.cache
+/Users/taylorruis/Desktop/Phone-book/obj/Debug/net5.0/PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taylorruis/Desktop/Phone-book/obj/Debug/net5.0/PhoneBook.AssemblyInfoInputs.cache
+/Users/taylorruis/Desktop/Phone-book/obj/Debug/net5.0/PhoneBook.AssemblyInfo.cs
+/Users/taylorruis/Desktop/Phone-book/obj/Debug/net5.0/PhoneBook.csproj.CoreCompileInputs.cache
+/Users/taylorruis/Desktop/Phone-book/obj/Debug/net5.0/PhoneBook.dll
+/Users/taylorruis/Desktop/Phone-book/obj/Debug/net5.0/ref/PhoneBook.dll
+/Users/taylorruis/Desktop/Phone-book/obj/Debug/net5.0/PhoneBook.pdb
+/Users/taylorruis/Desktop/Phone-book/obj/Debug/net5.0/PhoneBook.genruntimeconfig.cache
